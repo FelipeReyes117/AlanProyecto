@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Proyecto_Alan_OWO/Proyecto_Alan_OWO.csproj" Id="57995754-9ce4-42aa-8147-fbcebebf4a3b">
+    <Platform Solution="*|x64" Project="x64" />
+    <Platform Solution="Debug|Any CPU" Project="x64" />
+  </Project>
+</Solution>
