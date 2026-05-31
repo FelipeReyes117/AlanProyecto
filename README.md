@@ -1,2 +1,1 @@
-# AlanProyecto
-Proyecto de asistencia Para maestro Alan
+# Proyecto_Alan_OWO
